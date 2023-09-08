@@ -4,12 +4,15 @@ Skeleton website built as per the requirements for an internship screening test.
 How to run:
 
 Go to the repository cloned on your pc, run command:
+
 ``` npm install express ```
 
 now, go into the 'frontend' folder, by running command:
+
 ``` cd frontend```
 
 Now, run command:
+
 ``` npm install ```
 
 To start the backend server, go into the cloned repository, and run command:
